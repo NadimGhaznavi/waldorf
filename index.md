@@ -4,4 +4,4 @@ This site contains links to random information about Rudolf Steiner's Waldorf Sc
 
 # Links
 
-* [The Pedagogical Basis of the Waldorf School](/The-Pedagogical-Basis-of-the-Waldorf-School.html]
+* [The Pedagogical Basis of the Waldorf School](/The-Pedagogical-Basis-of-the-Waldorf-School.html)
